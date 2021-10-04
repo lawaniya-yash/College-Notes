@@ -1,1 +1,1 @@
-# Leather Technology
+# Information Technology
