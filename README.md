@@ -1,15 +1,26 @@
-# College-Notes
 
-**Note<br>
-1.Carefully Read this file for instructions, any attempt violating the conduct given here will not be accepted<br>
-2.Do star the DecodersHBTU repository**
 
 <p align="center"><img src="https://github.com/decodershbtu/Decoders-Community/blob/main/assets/decoders_Logo_Black.png?raw=true"></img></p>
 
 
 
   <br/>
+☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
+  <br/>
+
+  <br/>
   
+
+  <h1 align="center"> College-Notes</h1>
+ <p align="center">
+  <br/>
+ Carefully Read this file for instructions, any attempt violating the conduct given here will not be accepted 📜
+  <br/>
+ Do star the DecodersHBTU repository ★
+
+</p>
+
+  <br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
   <br/>
   
@@ -92,5 +103,5 @@ Name format of the File for all years except first year: {TopicName or Unit name
 </p>
 
 
-<h3 align="center">🎉 Congratulations you are added to decoders community 🎉</h3>
+<h3 align="center">🎉 Thanks for contributing to decoders community 🎉</h3>
  
