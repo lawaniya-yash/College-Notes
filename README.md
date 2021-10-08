@@ -18,8 +18,8 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="50px" />
   </a>&nbsp; &nbsp; &nbsp;
   <a href="https://instagram.com/decodershbtu">
-    <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg/640px-CIS-A2K_Instagram_Icon_%28Pink%29.svg.png" height="50px" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg/640px-CIS-A2K_Instagram_Icon_%28Pink%29.svg.png" height="50px" />
+  </a>&nbsp; &nbsp; &nbsp;
 
 </p>
   <br/>
@@ -39,7 +39,7 @@
 **STEP-1:** Fork this Repository
 ==========================================================================
 
-  <!--  ![image](https://user-images.githubusercontent.com/23385605/135757565-88fc32a2-171a-4489-88f4-81aa24655bdd.png) -->
+ ![image](https://user-images.githubusercontent.com/23385605/136588879-1605c6cc-e5fd-41c5-b5e5-e91d0e9d05f1.png)
 
   <br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
