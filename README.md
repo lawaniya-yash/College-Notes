@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://github.com/decodershbtu/Decoders-Community/blob/main/assets/decoders_Logo_Black.png?raw=true"></img></p>
+<p align="center"><img src="assets/CollegeNotes-Header.png"></img></p>
 
 
 
@@ -9,27 +9,38 @@
   <br/>
 
   <br/>
-  
 
-  <h1 align="center"> College-Notes</h1>
+  <p align="center">
+<a href="https://t.me/decodershbtu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="50px" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/company/decodershbtu">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="50px" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://instagram.com/decodershbtu">
+    <img src="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CIS-A2K_Instagram_Icon_%28Pink%29.svg/640px-CIS-A2K_Instagram_Icon_%28Pink%29.svg.png" height="50px" />
+  </a>
+
+</p>
+  <br/>
  <p align="center">
   <br/>
  Carefully Read this file for instructions, any attempt violating the conduct given here will not be accepted 📜
   <br/>
- Do star the DecodersHBTU repository ★
+ Do star the Decoders Community Book repository ✨✨✨
 
 </p>
 
   <br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
   <br/>
-  
-  
-**STEP-1:** Fork this Repository 
+
+
+**STEP-1:** Fork this Repository
 ==========================================================================
 
   <!--  ![image](https://user-images.githubusercontent.com/23385605/135757565-88fc32a2-171a-4489-88f4-81aa24655bdd.png) -->
-  
+
   <br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/>
@@ -38,22 +49,22 @@
 ==========================================================================
 **For Uploading Notes of First Year**
 
-Select the Year Folder --> Then select the subject folder of which you want to add the notes 
+Select the Year Folder --> Then select the subject folder of which you want to add the notes
 
 If the folder doesn't exists, create one with name formated as : SubjectName
 
 ==========================================================================<br>
 **For Uploading Notes of All Years Except First Year**
 
-Select the Year Folder --> Select the Branch Folder --> Then select the subject folder of which you want to add the notes 
+Select the Year Folder --> Select the Branch Folder --> Then select the subject folder of which you want to add the notes
 
 If the folder doesn't exists, create one with name formated as : SubjectName
 
 <br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/>
-  
-  
+
+
 
 
 **STEP-3:** Upload the .pdf file in the respective folder
@@ -66,8 +77,8 @@ Name format of the File for all years except first year: {TopicName or Unit name
 <!--  ![image](https://user-images.githubusercontent.com/23385605/135766009-52483503-9798-4cb3-8ad3-9908ed0eed10.png) -->
 
 
-  
-  
+
+
   <br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/>
@@ -83,10 +94,10 @@ Name format of the File for all years except first year: {TopicName or Unit name
 
 
 
-<br/> 
+<br/>
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
 <br/><br/>
- 
+
 
 
 
@@ -95,7 +106,7 @@ Name format of the File for all years except first year: {TopicName or Unit name
 
 
 
-  
+
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
  <br/> <br/> <br/>
 
@@ -104,4 +115,4 @@ Name format of the File for all years except first year: {TopicName or Unit name
 
 
 <h3 align="center">🎉 Thanks for contributing to decoders community 🎉</h3>
- 
+
