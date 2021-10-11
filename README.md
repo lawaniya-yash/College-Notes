@@ -30,16 +30,6 @@
 ☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷
  <br/> <br/>
 
-# How to clone using Command Line Interface (CLI)
-==========================================================================
-- Copy the url to the repository
-<img src="assets/clone.png">
-- paste the url in command: `` git clone <url> ``
-- Pull any changes from upstream: `` git pull`` & ``git fetch``
-- Make your changes to the repository
-- Stage (add) the new changes to your git: ``git add . `` (here `.` signifies all changes are staged)
-- commit your changes to git: `` git commit -m <commit message>``
-- Push you changes to github: `` git push origin main ``
 
 **STEP-1:** Fork this Repository
 ==========================================================================
