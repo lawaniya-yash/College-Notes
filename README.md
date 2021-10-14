@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="assets/CollegeNotes-Header.png"></img></p>
+<p align="center"><img src="assets/College-Notes-Repo.png"></img></p>
 
 
 
